@@ -1,5 +1,4 @@
-Readme
-==========
+# Readme
 
 A sample php application - used for examples only
 
@@ -18,11 +17,11 @@ Provides a webpage that tests php is working:
 
 [Stacker Project](http://stacker-project.github.io/) - Stack Management
 
-|                      |                                          |
-|:---------------------|:-----------------------------------------|
-| **Author:**          | Nick Willever (<nickwillever@gmail.com>) |
-| **Copyright:**       | Copyright (c) 2013 Nick Willever         |
-| **License:**         | Apache License, Version 2.0              |
+|                      |                                                     |
+|:---------------------|:----------------------------------------------------|
+| **Author:**          | Stacker-Project (<stacker-project@phoenection.com>) |
+| **Copyright:**       | Copyright (c) 2013 Phoenection                      |
+| **License:**         | Apache License, Version 2.0                         |
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
