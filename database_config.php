@@ -1,7 +1,7 @@
 <?php
-  define ("DB_HOST", "localhost");
-  define ("DB_PORT", 3306);
-  define ("DB_NAME", "sample_php");
-  define ("DB_USER", "root");
-  define ("DB_PASSWORD", "");
+  define ("DATABASE_HOST", "localhost");
+  define ("DATABASE_PORT", 3306);
+  define ("DATABASE_NAME", "sample_php");
+  define ("DATABASE_USER", "root");
+  define ("DATABASE_PASSWORD", "");
 ?>
