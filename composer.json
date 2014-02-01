@@ -1,0 +1,15 @@
+{
+    "name": "root/sample_php",
+    "description": "desc",
+    "require": {
+        "friendsofsymfony/oauth2-php": "5.3"
+    },
+    "license": "Apache License, Version 2.0",
+    "authors": [
+        {
+            "name": "Nick Willever",
+            "email": "nickwillever@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
